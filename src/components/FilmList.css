@@ -1,0 +1,15 @@
+.navlinks {
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+}
+
+.navlinks.active {
+    background-color: hsl(220, 15%, 18%);
+    color: hsl(220, 15%, 98%);
+}
+
+aside {
+    border: 2px solid black;
+    margin: 2rem;
+}
